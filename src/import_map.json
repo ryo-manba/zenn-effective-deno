@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "std/path": "https://deno.land/std@0.94.0/path/mod.ts",
+    "std/fs/ensure_dir": "https://deno.land/std@0.94.0/fs/ensure_dir.ts",
+    "marked": "https://cdn.skypack.dev/marked@1.2.7?dts"
+  },
+  "scopes": {}
+}
