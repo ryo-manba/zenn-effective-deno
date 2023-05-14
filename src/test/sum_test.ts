@@ -12,4 +12,3 @@ Deno.test("sum() returns 0 when no arguments given", () => {
   const expected = 0;
   assertEquals(actual, expected);
 });
-
